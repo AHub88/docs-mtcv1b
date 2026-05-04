@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-mpp7nx.locogrid.com/sitemap.xml
